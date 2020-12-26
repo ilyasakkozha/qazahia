@@ -1207,7 +1207,7 @@ hr {
 	}
 }
 
-@media (max-width: 575px) {
+@media (max-width: 36rem) {
 	
 	/*intro*/
 	
@@ -1215,7 +1215,7 @@ hr {
 		font-size: 22px;
 	}
 	.intro__title {
-		font-size: 400px;
+		font-size: 2rem;
 	}
 	/*section*/
 	.section__header {
